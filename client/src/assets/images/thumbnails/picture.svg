@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.5" height="36.5" viewBox="0 0 36.5 36.5">
+  <g id="picture" transform="translate(-2 -2)">
+    <path id="Path_28233" data-name="Path 28233" d="M36.675,2H3.825A1.724,1.724,0,0,0,2,3.825v32.85A1.724,1.724,0,0,0,3.825,38.5h32.85A1.724,1.724,0,0,0,38.5,36.675V3.825A1.724,1.724,0,0,0,36.675,2Z" fill="#bbdefb"/>
+    <path id="Path_28234" data-name="Path 28234" d="M29.332,2H10.9V38.5H29.332a1.724,1.724,0,0,0,1.825-1.825V3.825A1.724,1.724,0,0,0,29.332,2Z" transform="translate(7.343)" fill="#90caf9"/>
+    <path id="Path_28235" data-name="Path 28235" d="M30.835,6.73A1.66,1.66,0,0,0,29.375,6a2.072,2.072,0,0,0-1.46.548L18.243,17.862l-2.19-2.19a1.764,1.764,0,0,0-2.555,0L2,27.17v6.2A1.724,1.724,0,0,0,3.825,35.2h32.85A1.724,1.724,0,0,0,38.5,33.375V16.22Z" transform="translate(0 3.3)" fill="#558b2f"/>
+    <path id="Path_28236" data-name="Path 28236" d="M29.332,35.2a1.724,1.724,0,0,0,1.825-1.825V16.22L23.492,6.548a2.22,2.22,0,0,0-2.92,0L10.9,17.862V35.2Z" transform="translate(7.343 3.3)" fill="#33691e"/>
+    <circle id="Ellipse_114" data-name="Ellipse 114" cx="4" cy="4" r="4" transform="translate(7 7)" fill="#fbc02d"/>
+  </g>
+</svg>
